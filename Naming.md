@@ -58,3 +58,15 @@ Pages sind die einzelne Seiten einer Landingpage.
 ## Packs
 Packs sind Pakete die aus [Presets](/presets) und [Themes](/themes) bestehen und dann extra monetisiert werden können.
 [Ausführliche Definition.](/packs)
+
+## Renderer / Clay Renderer
+Die Render Engine die aus dem [Blueprints](/clay/blueprints) das fertige HTML/Page generiert
+[Ausführliche Definition.](/clay/renderer)
+
+## Blueprints / Clay Blueprints
+Blueprints sind die JSONs die vom [Renderer](clay/renderer) zu HTML/Page konvertiert werden. 
+[Ausführliche Definition.](/clay/blueprints)
+
+## The Frontend
+Das Frontend ist die VueSPA die das rendern und Routen aller Landingpages übernimmt  
+[Ausführliche Definition.](/frontend)
